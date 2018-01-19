@@ -1,2 +1,2 @@
 [workspace]
-members = ["audioipc", "client", "server", "ipctest"]
+members = ["audioipc", "client", "server"]
